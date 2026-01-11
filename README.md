@@ -55,9 +55,9 @@ tqdm >= 4.60.0
 pip install torch numpy matplotlib scikit-learn scipy rasterio tqdm
 ```
 
-## Data and Training Environment
+## Dataset
 
-The dataset and training environment can be accessed at: [Google Drive](https://drive.google.com/drive/folders/1y0aUqFcft0tMep8wP2riSjihF3G93KDl?usp=sharing)
+The dataset can be accessed at: [Google Drive](https://drive.google.com/drive/folders/1y0aUqFcft0tMep8wP2riSjihF3G93KDl?usp=sharing)
 
 ## Getting Started
 
