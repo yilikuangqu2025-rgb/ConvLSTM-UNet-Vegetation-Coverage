@@ -1,0 +1,15 @@
+# 数据目录
+data/
+
+# Python
+__pycache__/
+
+# IDE
+.idea/
+
+models/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+

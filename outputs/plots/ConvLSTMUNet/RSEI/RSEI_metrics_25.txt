@@ -1,0 +1,12 @@
+Evaluation Metrics for RSEI (Year Index: 25)
+============================================================
+MSE: 0.000271
+MAE: 0.010774
+RMSE: 0.016477
+R²: 0.871771
+Mean True Value: 0.1224
+Mean Pred Value: 0.1185
+Std True Value: 0.0460
+Std Pred Value: 0.0412
+Regression Line: y = 0.840214x + 0.015643
+============================================================

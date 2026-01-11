@@ -1,0 +1,12 @@
+Evaluation Metrics for EVI (Year Index: 25)
+============================================================
+MSE: 0.001465
+MAE: 0.017341
+RMSE: 0.038279
+R²: 0.848828
+Mean True Value: 0.8891
+Mean Pred Value: 0.8930
+Std True Value: 0.0985
+Std Pred Value: 0.0875
+Regression Line: y = 0.820298x + 0.163685
+============================================================

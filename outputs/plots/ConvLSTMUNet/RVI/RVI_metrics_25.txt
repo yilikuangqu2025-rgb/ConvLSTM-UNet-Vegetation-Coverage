@@ -1,0 +1,12 @@
+Evaluation Metrics for RVI (Year Index: 25)
+============================================================
+MSE: 0.000480
+MAE: 0.013531
+RMSE: 0.021910
+R²: 0.866893
+Mean True Value: 0.8651
+Mean Pred Value: 0.8700
+Std True Value: 0.0601
+Std Pred Value: 0.0537
+Regression Line: y = 0.836652x + 0.146191
+============================================================

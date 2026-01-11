@@ -1,0 +1,12 @@
+Evaluation Metrics for FVC (Year Index: 25)
+============================================================
+MSE: 0.000779
+MAE: 0.014548
+RMSE: 0.027902
+R²: 0.832503
+Mean True Value: -0.2106
+Mean Pred Value: -0.2170
+Std True Value: 0.0682
+Std Pred Value: 0.0540
+Regression Line: y = 0.733829x + -0.062479
+============================================================

@@ -1,0 +1,12 @@
+Evaluation Metrics for NDVI (Year Index: 25)
+============================================================
+MSE: 0.000210
+MAE: 0.008015
+RMSE: 0.014477
+R²: 0.874744
+Mean True Value: 0.0736
+Mean Pred Value: 0.0705
+Std True Value: 0.0409
+Std Pred Value: 0.0341
+Regression Line: y = 0.788526x + 0.012457
+============================================================

@@ -1,0 +1,12 @@
+Evaluation Metrics for SAVI (Year Index: 25)
+============================================================
+MSE: 0.000399
+MAE: 0.011554
+RMSE: 0.019973
+R²: 0.894039
+Mean True Value: 0.1104
+Mean Pred Value: 0.1067
+Std True Value: 0.0614
+Std Pred Value: 0.0537
+Regression Line: y = 0.831453x + 0.014859
+============================================================
